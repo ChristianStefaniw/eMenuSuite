@@ -1,2 +1,2 @@
 # eMenuSuite
-http://emenu-service.herokuapp.com/
+https://emenu-service.herokuapp.com/
