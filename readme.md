@@ -1,2 +1,2 @@
 # eMenuSuite
-http://emenu.pythonanywhere.com/
+http://emenu-service.herokuapp.com/
