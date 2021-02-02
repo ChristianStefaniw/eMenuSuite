@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\cpste\PycharmProjects\eMenu\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+venv/
+certname.crt
+certname.key
+local_settings.py
+db.sqlite3
+media
+static/
+templates/e_menu/HTML/
+/env/
+e_menu_backend/.env

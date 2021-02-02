@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0832e66-890c-4d23-9bb7-a5c25870c022" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e_menu_for_customer/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e_menu_for_customer/.idea/runConfigurations/main_dart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e_menu_for_customer/lib/other/util/net/rest_calls.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../e_menu_for_customer/lib/other/util/net/rest_calls.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e_menu_for_customer/lib/other/util/scan_qr.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../e_menu_for_customer/lib/other/util/scan_qr.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e_menu_for_customer/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../e_menu_for_customer/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../e_menu_for_customer/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../e_menu_for_customer/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="7fa4a26e-21fe-4e11-a9c6-4b7523c87d46" />
+  <component name="ProjectId" id="1ixo8XWyRzgdHixcy4CyqSOt4Bo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cpste\Desktop\Projects\eMenuSuite\eMenu\static\assets\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cpste\Desktop\Projects\eMenuSuite\eMenu\static\assets\img" />
+      <recent name="C:\Users\cpste\Desktop\Projects\eMenuSuite\eMenu\static\assets" />
+      <recent name="C:\Users\cpste\Desktop\Projects\eMenuSuite\eMenu\static\assets\img\icons" />
+      <recent name="C:\Users\cpste\Desktop\Projects\eMenuSuite\eMenu\eMenuApp" />
+      <recent name="C:\Users\cpste\Desktop\Projects\eMenuSuite\eMenu\api" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="eMenu" type="Python.DjangoServer" factoryName="Django server">
+      <module name="eMenu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="eMenu.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0832e66-890c-4d23-9bb7-a5c25870c022" name="Default Changelist" comment="" />
+      <created>1602858452455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602858452455</updated>
+      <workItem from="1602858474292" duration="22072000" />
+      <workItem from="1602884490191" duration="6935000" />
+      <workItem from="1602908901055" duration="3962000" />
+      <workItem from="1602950028459" duration="4363000" />
+      <workItem from="1602992589162" duration="6143000" />
+      <workItem from="1603030875222" duration="2544000" />
+      <workItem from="1603051142177" duration="7556000" />
+      <workItem from="1603063527023" duration="6913000" />
+      <workItem from="1603127018015" duration="17646000" />
+      <workItem from="1603200187084" duration="117000" />
+      <workItem from="1603203842504" duration="7911000" />
+      <workItem from="1603301135074" duration="385000" />
+      <workItem from="1603306616191" duration="456000" />
+      <workItem from="1603317004906" duration="2387000" />
+      <workItem from="1603332323551" duration="2883000" />
+      <workItem from="1603374315636" duration="6453000" />
+      <workItem from="1603495805912" duration="9069000" />
+      <workItem from="1603565802780" duration="11095000" />
+      <workItem from="1603642406749" duration="4479000" />
+      <workItem from="1603648661041" duration="12836000" />
+      <workItem from="1603710333807" duration="2067000" />
+      <workItem from="1603728576677" duration="3931000" />
+      <workItem from="1603741819706" duration="3549000" />
+      <workItem from="1603827989816" duration="2279000" />
+      <workItem from="1603886565608" duration="1460000" />
+      <workItem from="1603908844912" duration="154000" />
+      <workItem from="1603909113635" duration="852000" />
+      <workItem from="1603915023756" duration="1613000" />
+      <workItem from="1603991204886" duration="1678000" />
+      <workItem from="1604082901557" duration="4010000" />
+      <workItem from="1604116188295" duration="115000" />
+      <workItem from="1604170812230" duration="21000" />
+      <workItem from="1604171487828" duration="1765000" />
+      <workItem from="1604211692566" duration="283000" />
+      <workItem from="1604356408731" duration="7986000" />
+      <workItem from="1604782095864" duration="3725000" />
+      <workItem from="1604808007795" duration="473000" />
+      <workItem from="1604862358446" duration="2868000" />
+      <workItem from="1605033627166" duration="1418000" />
+      <workItem from="1605055413549" duration="379000" />
+      <workItem from="1605117324348" duration="1461000" />
+      <workItem from="1605278912567" duration="2081000" />
+      <workItem from="1605309314415" duration="6510000" />
+      <workItem from="1605465775456" duration="25134000" />
+      <workItem from="1605553763268" duration="155000" />
+      <workItem from="1605554332566" duration="7241000" />
+      <workItem from="1605632226179" duration="19845000" />
+      <workItem from="1605803804961" duration="1351000" />
+      <workItem from="1605805235442" duration="232000" />
+      <workItem from="1606075009449" duration="113000" />
+      <workItem from="1606961147632" duration="533000" />
+      <workItem from="1607045539310" duration="17000" />
+      <workItem from="1607633942379" duration="55000" />
+      <workItem from="1608397356712" duration="6000" />
+      <workItem from="1608399852131" duration="28000" />
+      <workItem from="1608429205578" duration="58000" />
+      <workItem from="1612278058777" duration="28000" />
+      <workItem from="1612278123276" duration="15000" />
+      <workItem from="1612280995189" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2303" y="195" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603915814050">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2303" y="195" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1603915814050" />
+    <state x="2529" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1605553834724">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2529" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605553834724" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1612278104042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1612278104042" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1608429263000" />
+    <state x="2636" y="286" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1606075140565" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1606961708128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606961708128" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1606961708127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606961708127" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1606961708127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606961708127" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1606961708128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1858.1080@0.0.1920.1040" timestamp="1606961708128" />
+    <state x="2366" y="171" key="SettingsEditor" timestamp="1605476316913">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2366" y="171" key="SettingsEditor/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605476316913" />
+    <state x="2574" y="118" width="567" height="832" key="find.popup" timestamp="1605657844162">
+      <screen x="1920" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2574" y="118" width="567" height="832" key="find.popup/0.0.1920.1040/1920.0.1858.1080@1920.0.1858.1080" timestamp="1605657844162" />
+  </component>
+</project>
