@@ -5,5 +5,6 @@ Obviously, there was a lot more stuff than I just listed that I could have done 
 I realize what I did incorrectly in this project and I fixed the gaps in my knowledge.  
 Please see some of my more recent Flutter projects such as [MarkSpace](https://github.com/christianstefaniw/markspace-client).
 Cheers!  
+(I started this project in October 2020 and finished in November 2020)
 <br>
 https://emenu-service.herokuapp.com/
